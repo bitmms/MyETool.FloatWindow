@@ -1,8 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyETool.FloatWindow", "MyETool.FloatWindow\MyETool.FloatWindow.csproj", "{1DCCB38A-717A-40C6-A25D-65BA4553D400}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCCB38A-717A-40C6-A25D-65BA4553D400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCCB38A-717A-40C6-A25D-65BA4553D400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCCB38A-717A-40C6-A25D-65BA4553D400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCCB38A-717A-40C6-A25D-65BA4553D400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
